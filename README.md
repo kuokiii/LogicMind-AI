@@ -1,8 +1,8 @@
 # 🧠 LogicMind AI
 
-[![Next.js](https://nextjs.org/)
-[![React](https://reactjs.org/)
-[![TypeScript](https://www.typescriptlang.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-13.0+-blueviolet.svg)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-18.0+-blue.svg)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-4.5+-3178c6.svg)](https://www.typescriptlang.org/)
 
 Welcome to LogicMind AI - Your interactive learning platform for Logic Programming and Artificial Intelligence! 🚀
 
@@ -52,6 +52,13 @@ We welcome contributions to LogicMind AI! If you'd like to contribute, please fo
 ## 📄 License
 
 This project is licensed under the GNU License. See the [LICENSE](LICENSE) file for details.
+
+## 👨‍💻 Developer
+
+Developed with ❤️ by Nirupam Thapa (kuoki)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_kuoki/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuokiii)
 
 ## 👨‍💻 Developer
 
