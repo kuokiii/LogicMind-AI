@@ -60,9 +60,4 @@ Developed with ❤️ by Nirupam Thapa (kuoki)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_kuoki/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuokiii)
 
-## 👨‍💻 Developer
 
-Developed with ❤️ by Nirupam Thapa (kuoki)
-
-[![Instagram](https://instagram.com/_kuoki/)
-[![GitHub](https://github.com/kuokiii)
